@@ -1,0 +1,163 @@
+body
+{
+    font-family: Trebuchet,sans-serif;
+}
+#whole
+{
+    width: 600px;
+    height: 900px;
+    border: 1px black solid;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #c1dce2;
+    display: flex;
+    flex-flow: row;
+}
+#head
+{
+    width: 200px;
+    height: 200px;
+    background-color: #1f4d5c;
+}
+#name
+{
+    color: white;
+    font-size: 25px;
+    padding-left: 15px;
+    padding-top: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.tit
+{
+    color: white;
+    font-size: 15px;
+    font-style: italic;
+    padding-left: 15px;
+    padding-top: 5px;
+}
+#spacer
+{
+    height: 10px;
+}
+.info
+{
+    color: #c1dce2;
+    font-size: 13px;
+    font-style: italic;
+    padding-left: 15px;
+    padding-top: 5px;
+}
+#side
+{
+    height: 715px;
+    width: 200px;
+    margin-top: 12px;
+    background-color: #97b9c1;
+    color: #1f4d5c;
+}
+#comp
+{
+    padding-top:20px;
+    padding-left: 30px;
+}
+.side_tit
+{
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.sep
+{
+    border-bottom:1px #1f4d5c dashed;
+    margin-left: auto;
+    margin-right: auto;
+    width:95%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#interes
+{
+    padding-left: 30px;
+}
+.comp_el
+{
+    padding-top: 4px;
+}
+#base
+{
+    padding-right: 3px;
+    padding-left: 2px;
+}
+#idiomas
+{
+    padding-left: 30px;
+}
+.sub
+{
+    font-size: 12px;
+    font-style: italic;
+    padding-left: 15px;
+    padding-top: 5px;
+}
+#bod
+{
+    height: 900px;
+    width: 400px;
+    color: #1f4d5c;
+}
+.form
+{
+    width:100%;
+    display:flex;
+    margin-top: 25px;
+    padding-left: 20px;
+}
+.bod_tit
+{
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 20px;
+}
+.form_1
+{
+    width: 65%;
+}
+.form_tit
+{
+    font-size: 14px;
+    padding-right: 10px;
+    font-weight: bold;
+}
+.form_2
+{
+    width:27%;
+    font-style:italic;
+    font-weight: lighter;
+    padding-top: 10px;
+    font-size: 12px;
+    text-align: right;
+}
+.form_loc
+{
+    opacity: 0.6;
+    font-size: 13px;
+    padding-top: 5px;
+}
+#tit_1
+{
+    padding-top: 40px;
+}
+.descript
+{
+    opacity: 0.9;
+    font-size: 13px;
+    padding-right: 15px;
+    padding-top: 5px;
+}
+.min_tit
+{
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 20px;
+}
